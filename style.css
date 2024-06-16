@@ -1,0 +1,35 @@
+#banner {
+    /* display: flex;
+    justify-items: center;
+    align-items: center; */
+    height: auto;
+    background-color: rgba(20, 220, 43, 0.267);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 3px solid rgb(106, 23, 23);
+}
+
+
+
+#clock {
+    font-family: 'Segoe UI';
+    font-size: 70px;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+    ;
+    height: auto;
+    background-color: rgba(20, 220, 43, 0.267);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 3px solid rgb(106, 23, 23);
+}
+
+body {
+    width: auto;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(237, 237, 131);
+}
